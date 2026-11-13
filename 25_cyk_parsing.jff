@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<structure>
+<type>grammar</type>
+<production><left>S</left><right>AB</right></production>
+<production><left>S</left><right>BC</right></production>
+<production><left>A</left><right>BA</right></production>
+<production><left>A</left><right>0</right></production>
+<production><left>B</left><right>CC</right></production>
+<production><left>B</left><right>1</right></production>
+<production><left>C</left><right>AB</right></production>
+<production><left>C</left><right>0</right></production>
+</structure>
